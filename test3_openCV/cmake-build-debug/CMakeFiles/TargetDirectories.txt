@@ -1,3 +1,0 @@
-/home/laila/programacion/C++/openCV/test3_openCV/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/laila/programacion/C++/openCV/test3_openCV/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/laila/programacion/C++/openCV/test3_openCV/cmake-build-debug/CMakeFiles/test3_openCV.dir
