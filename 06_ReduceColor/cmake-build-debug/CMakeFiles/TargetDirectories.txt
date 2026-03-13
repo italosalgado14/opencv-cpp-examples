@@ -1,0 +1,3 @@
+/home/laila/programacion/C++/openCV/06_ReduceColor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/laila/programacion/C++/openCV/06_ReduceColor/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/laila/programacion/C++/openCV/06_ReduceColor/cmake-build-debug/CMakeFiles/06_ReduceColor.dir

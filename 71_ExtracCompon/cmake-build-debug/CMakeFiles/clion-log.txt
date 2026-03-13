@@ -1,0 +1,4 @@
+/snap/clion/151/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/laila/programacion/C++/openCV/71_ExtracCompon
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/laila/programacion/C++/openCV/71_ExtracCompon/cmake-build-debug

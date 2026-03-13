@@ -1,0 +1,3 @@
+/home/laila/programacion/C++/openCV/05_AccessingPixel/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/laila/programacion/C++/openCV/05_AccessingPixel/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/laila/programacion/C++/openCV/05_AccessingPixel/cmake-build-debug/CMakeFiles/5_accessing_pixel.dir

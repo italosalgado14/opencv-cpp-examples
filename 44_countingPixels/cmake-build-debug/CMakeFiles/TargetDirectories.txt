@@ -1,0 +1,3 @@
+/home/laila/programacion/C++/openCV/44_countingPixels/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/laila/programacion/C++/openCV/44_countingPixels/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/laila/programacion/C++/openCV/44_countingPixels/cmake-build-debug/CMakeFiles/44_countingPixels.dir
